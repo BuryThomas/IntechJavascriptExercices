@@ -1,0 +1,20 @@
+1 :Quel est le résultat de l'expression suivant:
++!true === 0
+
+true
+false 
+NaN
+TypeError
+-------------------------------------------------------------
+
+2 :Qu'affiche ce code ?
+let b ={name : "toto", age :42}
+let props = [];
+for(const a of b ){
+	props.push(a)
+}
+console.log(props)
+- TypeError 
+- ["name","age"]
+- ["toto","42"]
+-Aucune de ces réponses
